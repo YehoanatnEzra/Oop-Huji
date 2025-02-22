@@ -1,0 +1,29 @@
+# Ignore IDE config files
+.idea/
+
+# Ignore build output folders
+out/
+
+# Ignore IMAL project files (for IntelliJ IDEA or Android Studio)
+*.iml
+
+# Ignore compiled files (Java class files)
+*.class
+
+# Ignore temporary files created by the system (OS-related)
+.DS_Store
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore image files if you don't want to upload them (you can remove these if you want to upload images)
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Ignore other generated folders or files
+/external/
+
+
