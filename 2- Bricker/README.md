@@ -25,7 +25,7 @@ This action will create a copy of the repository in your GitHub account.
 Clone this repository to your local machine using git clone https://github.com/liorzats/BrickBreaker.git.
 Navigate to the repository directory, open BrickerGame directory.
 Open BrickerGame\src\bricker\main\BrickerGameManager file and run it.
-Start playing and enjoy! The game makes use of the library DanoGameLab.
+Start playing and enjoy! The game makes use of the library DanoGameLab - DanoGameLab : https://danthe1st.itch.io/danogamelab.
 
 
 
