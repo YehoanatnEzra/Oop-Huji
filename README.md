@@ -27,4 +27,4 @@ Each project demonstrates different OOP concepts, including **encapsulation, pol
 Each project in this repository showcases different **OOP principles** and **design patterns**, demonstrating structured software development.
 
 
-https://danthe1st.itch.io/danogamelab
+DanoGameLab : https://danthe1st.itch.io/danogamelab
