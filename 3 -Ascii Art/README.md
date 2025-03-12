@@ -6,10 +6,11 @@ It supports output in both the console and HTML formats, and it allows the user 
 
 ## Installation and Usage
 
-1. Clone this repository to your local machine.
-2. Make sure you have Java 21 installed.
-3. Compile and run the `Shell` class to start the application.
-4. Use the command-line interface to interact with the program and generate ASCII art from your images.
+- Clone the repository (if not already done).
+- Navigate to the Bricker project.
+- Navigate to the project directory.
+- Run ascii_art.Shell.
+- Use the command-line interface to interact with the program and generate ASCII art from your images.
 
 ## Commands
 The program accepts the following commands via the command-line interface:
