@@ -37,5 +37,5 @@ If you find any issues, have questions, or suggestions for improvement, feel fre
 
 ---
 ## License
-This project is open-source and available for personal and educational use.
+- This project is open-source and available for personal and educational use.
 
