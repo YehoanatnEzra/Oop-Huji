@@ -1,11 +1,10 @@
-# **BrickBreaker**
+# **Bricker**
 
 BrickBreaker is a modern twist on the classic arcade game *Breakout*, where the player must smash a wall of bricks by deflecting a bouncing ball with a paddle.  
 Each brick in the game features a unique collision strategy.  
 The player starts with 3 lives and loses one if the ball falls below the paddle.  
 If all lives are lost, the game is over.  
 
-# Bricker
 ## **Game Rules**  
 - The player starts with three lives, a main ball, and a paddle.  
 - Use the paddle to bounce the ball and break bricks.  
