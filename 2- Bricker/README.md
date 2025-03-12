@@ -21,9 +21,9 @@ The game is completed when all bricks are destroyed without losing all lives.
 
 ## **Installation & running**
 - Clone the repository (if not already done).
-- Navigate to the Bricker project
-- This project requires an external library, so download DanoGameLab 1.1.0 - 17.10.23 (https://danthe1st.itch.io/danogamelab).).
-- Run BrickerGameManager
+- Navigate to the Bricker project.
+- This project requires an external library, so download DanoGameLab 1.1.0 - 17.10.23 (https://danthe1st.itch.io/danogamelab).
+- Run BrickerGameManager.
 
 
 
