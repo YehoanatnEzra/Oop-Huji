@@ -3,14 +3,6 @@
 This project is the second exercise I completed in the OOP course at Hebrew University of Jerusalem.  
 The main objective of this exercise is to practice implementing basic design patterns and interfaces while improving strategic decision-making in a Tic Tac Toe game.
 
-## **Installation & running**
-- Clone the repository (if not already done)
-- Navigate to the Tic Tac Toe Tournament project
-- Run the Tournament class with the following parameters:  
-`<Number of tournament> <Size of the board> <Number of marks needed to win> <Display mode (console or none)> <First player's strategy (human, clever, whatever, genius)> <Second player's strategy>`.
-
-
-
 ## **Exercise Description**  
 This project implements a Tic Tac Toe Tournament, where multiple player strategies compete against each other.
 The primary focus is on different AI strategies and their effectiveness in winning against a random player.
@@ -45,5 +37,11 @@ The project follows fundamental Object-Oriented Design principles, ensuring scal
 Thanks to this structured approach, we can easily add new AI players and rendering options in the future without modifying all
 classes, only the relevant factories will need updates.
 This reduces the risk of bugs and makes debugging more efficient by isolating potential issues.
+
+## **Installation & running**
+- Clone the repository (if not already done)
+- Navigate to the Tic Tac Toe Tournament project
+- Run the Tournament class with the following parameters:  
+`<Number of tournament> <Size of the board> <Number of marks needed to win> <Display mode (console or none)> <First player's strategy (human, clever, whatever, genius)> <Second player's strategy>`.
 
 
