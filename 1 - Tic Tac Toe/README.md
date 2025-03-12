@@ -1,6 +1,6 @@
 # **Exercise 2 - Tic Tac Toe Tournament**
 
-This project is the second exercise i completed in the OOP course at Hebrew University of Jerusalem.  
+This project is the second exercise I completed in the OOP course at Hebrew University of Jerusalem.  
 The main objective of this exercise is to practice implementing basic design patterns and interfaces while improving strategic decision-making in a Tic Tac Toe game.
 
 ## **Installation & running**
