@@ -7,6 +7,7 @@ This project is a simulation of a dynamic game world, where objects such as logs
 - This project requires an external library, so download DanoGameLab 1.1.0 - 17.10.23 (https://danthe1st.itch.io/danogamelab).
 - Run pepse.PepseGameManager.
 
+## Classes and Design Patterns
 Log Class:
 Role: Represents a log in the game world that changes color based on
 the state of the avatar.
