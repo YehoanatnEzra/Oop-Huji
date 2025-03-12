@@ -13,11 +13,11 @@ If all lives are lost, the game is over.
 - Extra lives can be earned by destroying bricks with a heart strategy and catching the falling hearts with the paddle.  
 
 ### **Special Effects from Bricks:**  
-- **Adding an extra paddle**  
-- **Focusing the camera on the ball**  
-- **Spawning two additional puck balls**  
+- Adding an extra paddle.  
+- Focusing the camera on the ball.  
+- Spawning two additional puck balls.  
 
-The game is completed when all bricks are destroyed **without losing all lives**.  
+The game is completed when all bricks are destroyed without losing all lives.  
 
 ## **Installation & Running the Game**  
 Fork the Repository: Click on the "Fork" button in the upper-right corner of the repository's page.
