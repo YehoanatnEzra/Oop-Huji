@@ -2,7 +2,7 @@
 
 This repository contains multiple projects developed as part of the Object-Oriented Programming course at The Hebrew University of Jerusalem. Each project demonstrates different OOP concepts, including encapsulation, polymorphism, inheritance, and design patterns.
 
-### **Projects Overview:**
+## **Projects Overview:**
 
 1. **Tic Tac Toe Tournament**  
    - Implementation of a Tic Tac Toe game where different AI strategies compete.  
