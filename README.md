@@ -16,7 +16,7 @@ Each project demonstrates different OOP concepts, including encapsulation, polym
 
 3. **ASCII Art Generator**  
    - A program that converts images into ASCII art.  
-   - Supports different resolution levels, custom character sets, and **HTML or console output**.  
+   - Supports different resolution levels, custom character sets, and HTML or console output.  
 
 4. **Flora Game (Observer Pattern Implementation)** (Uses DanoGameLab 1.1.0 - 17.10.23)
    - A game featuring interactive objects like logs, leaves, and fruits that react dynamically to the player's actions.  
@@ -29,10 +29,7 @@ Each project in this repository showcases different OOP principles and design pa
 ## Installation & Running the projects
 - Fork the Repository: Click on the "Fork" button in the upper-right corner of the repository's page. This action will create a copy of the repository in your GitHub account. Clone this repository to your local machine using git clone https://github.com/YehoanatnEzra/Oop-Huji.git.
 - Each project has its own setup instructions. Navigate to the relevant project folder and follow its README.md for build and execution details.
-- Two projects (BrickBreaker and Flora Game) require an external library (DanoGameLab 1.1.0 - 17.10.23). Instructions for installing this library can be found in their respective README.md files.
-
-
-DanoGameLab : https://danthe1st.itch.io/danogamelab
+- Two projects (BrickBreaker and 2D Game) require an external library (DanoGameLab 1.1.0 - 17.10.23: https://danthe1st.itch.io/danogamelab).
 
 ## Feedback & Contact
 If you find any issues, have questions, or suggestions for improvement, feel free to reach out:
