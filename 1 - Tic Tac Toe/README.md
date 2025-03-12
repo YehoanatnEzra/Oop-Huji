@@ -3,10 +3,13 @@
 This project is the second exercise i completed in the OOP course at Hebrew University of Jerusalem.  
 The main objective of this exercise is to practice implementing basic design patterns and interfaces while improving strategic decision-making in a Tic Tac Toe game.
 
-## **Usage**
-1. Clone this repository using git clone <url>
-2. Open the cloned project in your IDE
-3. Use JDK 11 to compile all relevant files and run
+## **Installation & running**
+- Clone the repository (if not already done):
+- Open the project in your IDE (IntelliJ IDEA, Eclipse, or VS Code).
+- Use JDK 11 or higher to compile and run the program.
+- Run the Tournament class with the following parameters:
+   - <Number of tournament rounds> <Size of the board> <Number of marks needed to win> <Display mode (console or none)> <First player's strategy (human, clever, whatever, genius)> <second player's strategy (human, clever, whatever, genius)>.
+
 
 ## **Exercise Description**  
 This project implements a Tic Tac Toe Tournament, where multiple player strategies compete against each other.
