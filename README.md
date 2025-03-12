@@ -9,7 +9,7 @@ Each project demonstrates different OOP concepts, including encapsulation, polym
    - Implementation of a Tic Tac Toe game where different AI strategies compete.  
    - Uses interfaces and strategy design patterns to allow multiple playing strategies, including a clever and genius player.  
 
-2. **BrickBreaker** (Uses DanoGameLab 1.1.0 - 17.10.23)  
+2. **BrickBreaker** 
    - A modern take on the classic Breakout game where players break bricks using a bouncing ball and paddle.  
    - Includes special power-ups and unique brick behaviors to enhance gameplay.  
    - Built using the DanoGameLab 1.1.0 (17.10.23) library for game mechanics and rendering.  
@@ -18,7 +18,7 @@ Each project demonstrates different OOP concepts, including encapsulation, polym
    - A program that converts images into ASCII art.  
    - Supports different resolution levels, custom character sets, and HTML or console output.  
 
-4. **2D Game (Observer Pattern Implementation)** (Uses DanoGameLab 1.1.0 - 17.10.23)
+4. **2D Game**
    - A game featuring interactive objects like logs, leaves, and fruits that react dynamically to the player's actions.  
    - Implements the Observer pattern, where game objects respond to changes in the player’s state.  
    - Uses the Factory Method pattern to generate game elements dynamically.  
