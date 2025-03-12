@@ -1,7 +1,6 @@
 ## **Object-Oriented Programming (OOP) Course Projects - Hebrew University**
 
-This repository contains multiple projects developed as part of the Object-Oriented Programming course at The Hebrew University of Jerusalem.  
-Each project demonstrates different OOP concepts, including encapsulation, polymorphism, inheritance, and design patterns.
+This repository contains multiple projects developed as part of the Object-Oriented Programming course at The Hebrew University of Jerusalem. Each project demonstrates different OOP concepts, including encapsulation, polymorphism, inheritance, and design patterns.
 
 ### **Projects Overview:**
 
@@ -27,7 +26,8 @@ Each project demonstrates different OOP concepts, including encapsulation, polym
 Each project in this repository showcases different OOP principles and design patterns, demonstrating structured software development.
 
 ## Installation & Running the projects
-- Fork the Repository: Click on the "Fork" button in the upper-right corner of the repository's page. This action will create a copy of the repository in your GitHub account. Clone this repository to your local machine using git clone https://github.com/YehoanatnEzra/Oop-Huji.git.
+- Fork the Repository: Click on the "Fork" button in the upper-right corner of the repository's page. This action will create a copy of the repository in your 
+  GitHub account. Clone this repository to your local machine using git clone https://github.com/YehoanatnEzra/Oop-Huji.git.
 - Each project has its own setup instructions. Navigate to the relevant project folder and follow its README.md for build and execution details.
 - Two projects (BrickBreaker and 2D Game) require an external library (DanoGameLab 1.1.0 - 17.10.23: https://danthe1st.itch.io/danogamelab).
 
