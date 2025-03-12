@@ -7,8 +7,7 @@ The main objective of this exercise is to practice implementing basic design pat
 - Clone the repository (if not already done):
 - Open the project in your IDE (IntelliJ IDEA, Eclipse, or VS Code).
 - Use JDK 11 or higher to compile and run the program.
-- Run the Tournament class with the following parameters:
-   - <Number of tournament> <Size of the board> <Number of marks needed to win> <Display mode (console or none)> <First player's strategy (human, clever, whatever, genius)> <second player's strategy>.
+- Run the Tournament class with the following parameters: <Number of tournament> <Size of the board> <Number of marks needed to win> <Display mode (console or none)> <First player's strategy (human, clever, whatever, genius)> <second player's strategy>.
 
 
 ## **Exercise Description**  
