@@ -43,7 +43,7 @@ The project follows fundamental Object-Oriented Design principles, ensuring scal
 - **Single Responsibility Principle (SRP)** – Each class has a well-defined responsibility, making debugging and enhancements more manageable.
 
 Thanks to this structured approach, we can easily add new AI players and rendering options in the future without modifying all
-classes — only the relevant factories will need updates.
+classes, only the relevant factories will need updates.
 This reduces the risk of bugs and makes debugging more efficient by isolating potential issues.
 
 
