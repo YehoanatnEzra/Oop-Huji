@@ -1,4 +1,5 @@
 # 2D Game
+This project is a simulation of a dynamic game world, where objects such as logs, leaves, and fruits interact with the player's avatar. The environment reacts to the avatar’s actions, implementing key design patterns to manage behaviors and interactions efficiently.
 
 ## **Installation & running**
 - Clone the repository (if not already done).
