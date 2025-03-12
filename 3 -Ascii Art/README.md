@@ -4,14 +4,6 @@ This project is an implementation of an algorithm that converts images into ASCI
 The program processes an image, calculates its brightness, and maps it to characters based on the brightness levels.
 It supports output in both the console and HTML formats, and it allows the user to interact with the application via a command-line interface.
 
-## Installation and Usage
-
-- Clone the repository (if not already done).
-- Navigate to the Bricker project.
-- Navigate to the project directory.
-- Run ascii_art.Shell.
-- Use the command-line interface to interact with the program and generate ASCII art from your images.
-
 ## Commands
 The program accepts the following commands via the command-line interface:
 
@@ -26,12 +18,12 @@ The program accepts the following commands via the command-line interface:
 - **asciiArt**: Generates and displays the ASCII art based on the current settings.
 - **exit**: Exits the program.
 
+## Installation and Usage
+- Clone the repository (if not already done).
+- Navigate to the Bricker project.
+- Navigate to the project directory.
+- Run ascii_art.Shell.
+- Use the command-line above to interact with the program and generate ASCII art from your images.
 
-Example of running the program:
-1. Set the image:
-   image C:\path\to\your\image.jpg
-2. Output to HTML/console:
-   output html/console
-3. Generate ASCII art:
-   asciiArt
+   
 
