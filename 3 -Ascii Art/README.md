@@ -20,7 +20,6 @@ The program accepts the following commands via the command-line interface:
 
 ## Installation and Usage
 - Clone the repository (if not already done).
-- Navigate to the Bricker project.
 - Navigate to the project directory.
 - Run ascii_art.Shell.
 - Use the command-line above to interact with the program and generate ASCII art from your images.
