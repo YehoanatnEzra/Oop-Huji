@@ -1,11 +1,5 @@
 # **Exercise 2 - Tic Tac Toe Tournament**
-
-This project is the second exercise I completed in the OOP course at Hebrew University of Jerusalem.  
-The main objective of this exercise is to practice implementing basic design patterns and interfaces while improving strategic decision-making in a Tic Tac Toe game.
-
-## **Exercise Description**  
-This project implements a Tic Tac Toe Tournament, where multiple player strategies compete against each other.
-The primary focus is on different AI strategies and their effectiveness in winning against a random player.
+This project is the second exercise I completed in the OOP course at the Hebrew University of Jerusalem. The goal of the exercise is to practice implementing basic design patterns and interfaces while enhancing strategic decision-making in a Tic Tac Toe game. The project simulates a Tic Tac Toe Tournament, where multiple player strategies compete against each other, with a primary focus on evaluating different AI strategies and their effectiveness in winning against a random player.
 
 ### **Implemented Strategies**  
 
